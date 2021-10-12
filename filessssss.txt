@@ -1,0 +1,9 @@
+
+
+
+
+
+
+ip . zenifadamss.aternos.me
+port . 41098
+name .ghochu  
